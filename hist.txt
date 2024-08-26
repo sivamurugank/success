@@ -1,0 +1,500 @@
+    7  git remote add origin https://github.com/sivamurugank/ask.git
+    8  git remote -v
+    9  git branch
+   10  git push -u origin master
+   11  cd ..
+   12  ls
+   13  cd stocks/
+   14  ls
+   15  cd ..
+   16  clear
+   17  cd stocks/
+   18  git branch
+   19  cd ..
+   20  ls
+   21  cd trainingpublic1
+   22  git branch
+   23  cd ..
+   24  git ask
+   25  cd ask/
+   26  clear 
+   27  branch
+   28  git branch
+   29  git branch develop
+   30  git branch
+   31  git checkout develop
+   32  git branch
+   33  ls
+   34  cd ..
+   35  git branch -b testing
+   36  git checkout -b testing
+   37  cd ask/
+   38  ls
+   39  git branch
+   40  git checkout master 
+   41  git checkout -b testing
+   42  git branch
+   43  git checkout develop 
+   44  ls
+   45  code .
+   46  git status
+   47  touch hai.txt
+   48  git status
+   49  git add .
+   50  git commit -m "updated"
+   51  git status
+   52  git branch
+   53  cd testing
+   54  git checkout testing 
+   55  git merge develop testing
+   56  git branch
+   57  lls
+   58  ll
+   59  touch testcomplete
+   60  git add .
+   61  git commit -m "testing completed"
+   62  git merege testing master
+   63  git merge testing master
+   64  ls
+   65  cd ..
+   66  cd ask/
+   67  git branch
+   68  ls
+   69  git merge testing master
+   70  git checkout master
+   71  ls
+   72  git checkout develop 
+   73  ls
+   74  git merege testing develop
+   75  git merge testing develop
+   76  git checkout testing 
+   77  ls
+   78  git merge master testing
+   79  git checkout master 
+   80  ls
+   81  git merge testing master
+   82  ls
+   83  clear
+   84  ls
+   85  git branch
+   86  git branch -d develop testing
+   87  git branch
+   88  git log
+   89  clear
+   90  git remote -v
+   91  git branch
+   92  ls
+   93  git checkout -b features
+   94  git checkout master 
+   95  ls
+   96  touch rebase.txt
+   97  git add .
+   98  git checkout features 
+   99  touch rebase
+  100  touch rebase1
+  101  git add .
+  102  git commit -m "rebased"
+  103  ls
+  104  git log
+  105  ls
+  106  git checkout master 
+  107  git status
+  108  ls
+  109  touch reb reb2
+  110  git add red
+  111  git add reb
+  112  git commit -m "reb add"
+  113  git add reb2
+  114  git commit -m "reb2 add"
+  115  git log
+  116  git branch
+  117  git rebase features master
+  118  ls
+  119  git log
+  120  git checkout features 
+  121  touch cherry1
+  122  git add cherry1
+  123  git commit -m "cherry added"
+  124  touch cherry2
+  125  git add cherry2
+  126  git commit -m "cherry2 ADDED"
+  127  git log
+  128  git checkout master 
+  129  git log
+  130  git log -on1line
+  131  git log -oneline
+  132  git log --oneline
+  133  git cherypick 3976d6dee09cbf95094286e4619818abfe3142a8
+  134  git chery-pick 3976d6dee09cbf95094286e4619818abfe3142a8
+  135  git cherry-pick 3976d6dee09cbf95094286e4619818abfe3142a8
+  136  git log --oneline
+  137  git checkout features 
+  138  git log --oneline
+  139  git checkout master 
+  140  git log --oneline
+  141  git status
+  142  touch one two
+  143  git stash 
+  144  git add one two
+  145  git stash 
+  146  git status
+  147  git stash list
+  148  touch tamil
+  149  git tamil
+  150  git statsu
+  151  git status
+  152  git add tamil
+  153  git commit -m "tamil file added"
+  154  git stash list
+  155  git stash pop
+  156  git add one
+  157  git commit -m "stash check"
+  158  'git status
+  159  ijkhihj
+  160  :exit
+  161  $
+  162  :wq
+  163  ls
+  164  cd ask/
+  165  ls
+  166  git status
+  167  touch stash2 stash 3
+  168  git stash stash2
+  169  git statsu
+  170  git status
+  171  git stash
+  172  git add stash
+  173  git add stash2
+  174  git stash
+  175  git stash list
+  176  touch stash3
+  177  git add.
+  178  git add .
+  179  git stash
+  180  git stash list
+  181  git stash pop 5dfe793
+  182  git stash pop 0
+  183  git commit -m "stashing seperate pop0"
+  184  git commit
+  185  ll
+  186  git log
+  187  cd ask/
+  188  git log
+  189  cd ask/
+  190  git log --oneline 
+  191  ls
+  192  pwd
+  193  cd ask
+  194  ls
+  195  cat python.py 
+  196  . code
+  197  ls
+  198  cd ask/
+  199  cd ..
+  200  ls
+  201  cd stocks/
+  202  ld
+  203  ls
+  204  history > history.txt
+  205  pwd
+  206  . code
+  207  ls
+  208  mkdir python
+  209  cd python/
+  210  git init
+  211  touch welcome.py
+  212  nano welcome.py 
+  213  nano welcome.py 
+  214  cat welcome.py 
+  215  git add .
+  216  git status
+  217  git add welcome.py 
+  218  git commit -m "python file check"
+  219  git push orgin https://github.com/sivamurugank/testing.git
+  220  git clone https://github.com/sivamurugank/testing.git
+  221  git push orgin main
+  222  git push
+  223  git push https://github.com/sivamurugank/testing.git
+  224  git remote add origin https://github.com/sivamurugank/testing.git~
+  225  git push
+  226  git push -u origin main
+  227  ls
+  228  cd .
+  229  cd ..
+  230  ls
+  231  rm -rf python/
+  232  mkdir python
+  233  cd python/
+  234  ls
+  235  git init
+  236  touch welcome.py
+  237  nano welcome.py 
+  238  git remote add origin https://github.com/sivamurugank/testing.git
+  239  git add .
+  240  git commit -m "checking"
+  241  git push -u origin main
+  242  git push
+  243  git status
+  244  ls
+  245  git push -u orgin main
+  246  git branch
+  247  git remote -v
+  248  git push -u
+  249  git push --set-upstream origin master
+  250  cd..
+  251  \cd ..
+  252   mkdir py
+  253  cd py
+  254  git init
+  255  git remote add orgin https://github.com/sivamurugank/newpy.git~
+  256  ls
+  257  git pull
+  258  git checkout
+  259  ls
+  260  git branch
+  261  ls
+  262  touch python.py
+  263  git add.
+  264  git add .
+  265  git commit -m "nothing"
+  266  ls
+  267  git push orgin main
+  268  ls
+  269  git pull orgin main
+  270  git push orgin main
+  271  git status
+  272  git pull -r
+  273  git clone https://github.com/sivamurugank/newpy.git
+  274  ls
+  275  cd newpy/
+  276  ls
+  277  clear
+  278  ls
+  279  cd ..
+  280  cd ..
+  281  ls
+  282  git clone https://github.com/sivamurugank/newpy.git
+  283  ls
+  284  cd newpy/
+  285  ls
+  286  touch ff
+  287  git add .
+  288  git commit -m "no"
+  289  git push
+  290  git push orgin main
+  291  ls
+  292  git push orgin main
+  293  git remote -r
+  294  ls
+  295  ls
+  296  cd day1/
+  297  ls
+  298  git status
+  299  git pull orgin main
+  300  git pull -r orgin main
+  301  ll
+  302  l
+  303  ls
+  304  ls
+  305  git status
+  306  cd git 
+  307  cd gitproject/
+  308  git status
+  309  branch
+  310  git branch
+  311  git show
+  312  cls
+  313  git confing
+  314  git config
+  315  code -v
+  316  vscode
+  317  git config -global username sm
+  318  git config -global user.name sm
+  319  git config --global user.name sm
+  320  git config --global user.email smurugan812@gmail.com
+  321  git config
+  322  git config --global
+  323  git config --global usr
+  324  git config --global user
+  325  git config
+  326  ls
+  327  ll
+  328  cd gitproject/
+  329  ls
+  330  ll
+  331  ./vscode
+  332  code .v
+  333  cd ..
+  334  ls
+  335  mkdir newproj
+  336  ll
+  337  ls
+  338  cd newproj/
+  339  ls
+  340  git --global user.name siva
+  341  git config --global user.name siva
+  342  git config --global user.email smurugan812@gmail.com
+  343  git init
+  344  git clone https://github.com/sivamurugank/testing.git
+  345  ll
+  346  ls
+  347  cd testing/
+  348  ll
+  349  ls
+  350  ll
+  351  touch fire1.py
+  352  ls
+  353  git add .
+  354  ls
+  355  git status
+  356  git commit -m fire1.py 
+  357  ls
+  358  git push 
+  359  git status
+  360  git branch
+  361  git show
+  362  f
+  363  ls
+  364  pwd
+  365  cd /home
+  366  cd ..
+  367  ls
+  368  which git
+  369  ls
+  370  git status
+  371  ls
+  372  cd Desktop/
+  373  ls
+  374  cd gitproject/
+  375  ls
+  376  git status
+  377  git log
+  378  git add dont worry.txt
+  379  touch dontworry.txt
+  380  history -> dontworry.txt 
+  381  history > dontworry.txt 
+  382  git status
+  383  git add dontworry.txt 
+  384  git status
+  385  git commit -m "new file added to maintain hist"
+  386  git status
+  387  ls
+  388  git log
+  389  ls
+  390  cat dontworry.txt 
+  391  ls
+  392  git status
+  393  git rm -rf dontworry.txt 
+  394  s
+  395  git status
+  396  ls
+  397  git add .
+  398  git status
+  399  git commit -m "delete"
+  400  git status
+  401  git log 
+  402  ls
+  403  git reset 73a735f1e6f39924d8ea07c5710022a1de01cd74
+  404  ls
+  405  git status
+  406  lss
+  407  ls
+  408  git reset a27300644a1d913f2546b9926551934894290735
+  409  ls
+  410  git statue
+  411  ls
+  412  git status
+  413  git add dontworry.txt & git commit -m "hist file reverted"
+  414  git status
+  415  ls
+  416  ls
+  417  git log
+  418  git reset a27300644a1d913f2546b9926551934894290735
+  419  ls
+  420  git status
+  421  git add dontworry.txt hist.txt
+  422  git add dontworry.txt 
+  423  git status
+  424  ls
+  425  git commit -m "dwt"
+  426  ls
+  427  git log
+  428  git reset a27300644a1d913f2546b9926551934894290735
+  429  git status
+  430  git restore dontworry.txt 
+  431  ls
+  432  git status
+  433  git log
+  434  git remote add orgin https://github.com/sivamurugank/success.git
+  435  ls
+  436  git remote -v
+  437  git push orgin master
+  438  git push -u orgin master
+  439  ls
+  440  touch home.txt
+  441  nano home.txt 
+  442  git add home.txt 
+  443  git status
+  444  git commit -m "home details added"
+  445  git status
+  446  git push orgin master
+  447  git clone https://github.com/sivamurugank/testing.git
+  448  ls
+  449  cd testing/
+  450  ls
+  451  cd .
+  452  cd ..
+  453  git remote add upstream https://github.com/sivamurugank/testing.git
+  454  git -v
+  455  git remote -v
+  456  git branch
+  457  git branch upstream
+  458  ls
+  459  git branch
+  460  git branch upstream 
+  461  git chekout upstream
+  462  git checkout upstream
+  463  git branch
+  464  ls
+  465  git remote -v
+  466  git status
+  467  cd t
+  468  cd testing/
+  469  L
+  470  LS
+  471  l
+  472  ls
+  473  cd ..
+  474  ls
+  475  git add testing/
+  476  cd testing/
+  477  git add .
+  478  git status
+  479  git log
+  480  cd ..
+  481  git status
+  482  git commit -m "testing project addded"
+  483  git status
+  484  git log
+  485  git push upstream upstream 
+  486  git status
+  487  pwd
+  488  ll
+  489  cd Desktop/
+  490  ls
+  491  cd gitproject/
+  492  git branch
+  493  git branch new
+  494  git branch
+  495  git checkout new 
+  496  ls
+  497  ls
+  498  cd Desktop/
+  499  ls
+  500  cd gitproject/
+  501  ls
+  502  git branch
+  503  git branch upstream
+  504  git checkout upstream
+  505  ls
+  506  history > hist.txt
